@@ -2,4 +2,4 @@
 A handy tool to correct misalignent that occurs in recto-verso printing.
 
 Simply run the script from terminal and follow the instructions!<br/>
-Requires Python 3.x and PyPDF2 to work.
+Requires [Python 3.x](https://www.python.org/downloads/) and [PyPDF2](https://pypi.org/project/PyPDF2/) library to work.
